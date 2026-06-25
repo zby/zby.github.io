@@ -18,15 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ML Adventures
+title: Zby's Public Mind
 author: Zbigniew Łukasiak
-email: zzbbyy@*NO SPAM*gmail.com
+email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Documenting adventures of an oldshool programmer with the new Machine Learning stuff
+  A public interface to my current work on LLM wikis, agent-operated knowledge bases, and reliable LLM systems.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zby.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zby.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zby
 github_username:  zby
+header_pages:
+  - index.markdown
+  - cup.markdown
+  - archive.markdown
+  - about.markdown
 
 # Build settings
 #remote_theme: pages-themes/time-machine@v0.2.0

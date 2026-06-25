@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "Unwanted Correlations"
 date:   2021-08-30 15:49:32 +0200
-categories: questions
+permalink: /archive/ml-adventures/unwanted-correlations/
 ---
 
 I am training neural networks to detect some objects by their shapes. The problem is that the photo sets are not color-balanced - that is

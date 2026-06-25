@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "My script for installing Python TensorFlow Object Detection libs"
 date:   2021-08-20 15:49:32 +0200
-categories: code
+permalink: /archive/ml-adventures/installing-tf-and-object-detection/
 ---
 
 I had a lot of trouble installing the Python TensorFlow libs required for object detection
@@ -22,4 +22,3 @@ Apparently there is a pip bug that without the additional flags makes it install
 [from this SO answer](https://stackoverflow.com/questions/66060487/valueerror-numpy-ndarray-size-changed-may-indicate-binary-incompatibility-exp/66743692#66743692)
 
 None of the online tutorials I found touched this problem. Maybe it will be fixed some day.
-

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "Training Image Augmentation by Color"
 date:   2021-09-01 15:49:32 +0200
-categories:
+permalink: /archive/ml-adventures/augmentation-by-color/
 ---
 *Data augmentation:*
 > in data analysis are techniques used to increase the amount of data by adding slightly
@@ -79,5 +79,4 @@ And the result of 'turning the color' by 81 degrees:
 I trained my network on the original + augmented images (separately for reversions and swaps).
 This resulted in doubling the amount of training data,
 but there were no meanigful improvement in accuracy.
-
 

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 title:  "Debugging Machine Learning"
 date:   2021-09-01 15:49:32 +0200
-categories:
+permalink: /archive/ml-adventures/debugging-ml/
 ---
 
 Neural networks are close to being black boxes. You train a network and check if it works - but if it doesn't
@@ -14,7 +14,7 @@ improving. Untill it stopped. I did not know why. I suspected that maybe the dat
 and the networks learned something they shouldn't
 (that is overfitting probably) and the new batches are different so it does not work on them.
 I tried measuring that bias - as described in
-[Unwanted Correlations]({% post_url 2021-08-30-unwanted_correlations %}) and it proved difficult.
+[Unwanted Correlations](/archive/ml-adventures/unwanted-correlations/) and it proved difficult.
 But then I noticed that the images that don't work have the special property that
 they end up in my data pipeline as rectangles - while all the rest is processed into
 squares.

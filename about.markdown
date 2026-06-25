@@ -1,13 +1,20 @@
 ---
 layout: page
 title: About
-subtitle: How it started
 permalink: /about/
 ---
 
-This is a blog for documenting my adventures in learning Machine Learning and
-developing a (Lego) block finder app.  I used to program in all kinds of languages, but mostly in Perl.
-Then I kind of retired.
+I am Zbigniew Łukasiak, a software builder, business angel, and writer working
+on AI tools and agent-operated knowledge systems. I write about AI and software
+at [AI Adventures](https://zzbbyy.substack.com/).
 
-Now I am diving into Python and Machine Learning and I plan to document my struggles here.
+I have been building software since the dot-com era, across startups, large
+corporations, and academia. At the University of London I helped build
+PhilPapers, a comprehensive index of philosophy research used by academics
+worldwide.
 
+Since 2013 I have also been a business angel, with a portfolio of more than
+20 startups and an investing style grounded in software-development judgment.
+
+My current focus is Commonplace: a self-hosting LLM wiki for turning AI-assisted
+work into durable, inspectable, linked knowledge.
