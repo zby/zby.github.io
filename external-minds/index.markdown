@@ -11,6 +11,7 @@ public mind.
 
 - [Public Mind / ORI](https://github.com/Open-Research-Institute/public-mind-template) - the template and protocol idea this site adapts.
 - [Internet Society Poland](https://www.internetsocietypoland.org/) - a plural mind around the internet as public infrastructure.
+- Warsaw, Poland - my general local plural mind. I organize walk-and-talk sessions on Wednesdays or Thursdays around lunchtime.
 
 ## Past Plural Minds
 

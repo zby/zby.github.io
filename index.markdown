@@ -3,8 +3,9 @@ layout: home
 title: Zby's Public Mind
 ---
 
-This is my ORI entry point: a compact map of the work I want other minds to
-understand, challenge, reuse, or join.
+This is my [Public Mind Interface](https://github.com/Open-Research-Institute/public-mind-template):
+a compact map of the work I want other minds to understand, challenge, reuse,
+or join.
 
 My current frontier is **agent-operated knowledge bases**. I am building
 [Commonplace](https://zby.github.io/commonplace/), a self-hosting LLM wiki:
